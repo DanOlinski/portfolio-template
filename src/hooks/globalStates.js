@@ -16,12 +16,12 @@ const globalStates = create((set) => ({
       set(()=>({content: newData}))
     },
     
-    projects: true,
+    projects: false,
     setProjects: (newData) => {
       set(()=>({projects: newData}))
     },
 
-    skills: true,
+    skills: false,
     setSkills: (newData) => {
       set(()=>({skills: newData}))
     }
