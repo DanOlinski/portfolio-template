@@ -165,12 +165,12 @@ export default function Header() {
           <div className='intro-hi'>
             This is a
             <div className='intro-name'>
-              template website
+              template website.
             </div>
           </div>
 
           <div className='intro-what-i-do'>
-            to activate links go to the repository
+            To activate links go to the repository
           </div>
 
         </div>
